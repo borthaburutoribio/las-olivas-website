@@ -1,0 +1,5 @@
+# Sitio de muestra: no indexar hasta que Las Olivas lo apruebe
+User-agent: *
+Disallow: /
+# Al publicar en serio: cambiar a "Allow: /" y dejar el sitemap
+Sitemap: https://borthaburutoribio.github.io/las-olivas-website/sitemap.xml
